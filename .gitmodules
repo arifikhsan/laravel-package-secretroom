@@ -1,0 +1,3 @@
+[submodule "packages/arifikhsan/laravel-secretroom"]
+	path = packages/arifikhsan/laravel-secretroom
+	url = git@github.com:arifikhsan/laravel-secretroom.git
