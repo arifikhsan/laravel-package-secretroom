@@ -165,6 +165,7 @@ return [
         /*
          * Package Service Providers...
          */
+        Arifikhsan\LaravelSecretroom\LaravelSecretroomServiceProvider::class,
 
         /*
          * Application Service Providers...
